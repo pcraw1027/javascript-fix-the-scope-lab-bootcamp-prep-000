@@ -32,10 +32,10 @@ var funkyFunction = function() {
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
 
-console.log(`it first says ${funkyFunction}`)
+//console.log(`it first says ${funkyFunction}`)
 
 var theFunk = funkyFunction()
-theFunk()
+theFunk = theFunk()
 
 // console.log(`it says ${theFunk} now`)
 
