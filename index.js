@@ -37,5 +37,5 @@ console.log(`it first says ${funkyFunction}`)
 var theFunk = funkyFunction()
 theFunk()
 
-console.log(`it says ${theFunk} now`)
+// console.log(`it says ${theFunk} now`)
 
